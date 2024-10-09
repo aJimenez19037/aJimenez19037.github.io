@@ -2,5 +2,5 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Antonio Oldair Jimenez
-description: Integrated mMaster's student at the Oden Institute, UT Austin.
+description: Integrated Master's student at the Oden Institute, UT Austin.
 google_analytics: G-9VRC6DZ2CH
