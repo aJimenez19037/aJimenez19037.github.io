@@ -6,7 +6,7 @@ I am a fourth-year integrated master's student looking forward to working and co
 
 Email: antjim19037@utexas.edu | [LinkedIn](https://www.linkedin.com/in/antonio-o-jimenez/) | [Github](https://github.com/aJimenez19037)  
 
-# Work Experience
+# WORK EXPERIENCE
 
 ## Summer Honors Intern, The Applied Research Laboratories - Austin, TX (06/24 - 08/24)
 
@@ -27,7 +27,7 @@ Email: antjim19037@utexas.edu | [LinkedIn](https://www.linkedin.com/in/antonio-o
   - Implemented blurs, thresholds, contour detection, and other pre-processing techniques to improve the robustness of marker detection. 
   - Researched trade-offs between marker complexity and detection accuracy ensuring robust detection from higher altitudes.
 
-# Projects
+# PROJECTS
 
 ## Hurricane Harvey Classification Inference Server, Software Design for Responsible Intelligent Systems - Austin, TX (2024)  
 
@@ -46,7 +46,7 @@ Email: antjim19037@utexas.edu | [LinkedIn](https://www.linkedin.com/in/antonio-o
 * Integrated the Imgur API, allowing users to easily download generated plots directly from the internet. 
 * Containerized the Flask app with Docker and deployed it on Kubernetes, ensuring scalability and smooth performance. 
 
-# Leadership
+# LEADERSHIP
 
 ## President, Texas Aerial Robotics - Austin, TX (3/2023 – 5/2024)
 
@@ -55,5 +55,6 @@ Email: antjim19037@utexas.edu | [LinkedIn](https://www.linkedin.com/in/antonio-o
 * Organized and assisted the creation of 7 workshops to familiarize members with the tools necessary for drone programming. 
 * Raytheon Drone Innovation Competition – 2nd place 
 * Implemented computer vision and pathing algorithms to create an autonomous drone capable of tracking and immobilizing a moving target as a part of a drone competition. 
-* Integrated flight controller, companion computer, and the ground control system allowing for autonomous drone missions.  
-
+* Integrated flight controller, companion computer, and the ground control system allowing for autonomous drone missions.
+  
+![Oden](images/oden.png) ![ASE UT](images/aseut.png) ![tx_robotics](images/tx_robotics.png)
