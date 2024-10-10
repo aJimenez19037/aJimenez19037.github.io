@@ -1,4 +1,4 @@
-![My Image](images/my-image.png)
+![My Image](images/Headshot.jpg)
 
 # ABOUT ME
 
@@ -46,13 +46,12 @@ I am a fourth-year integrated master's student looking forward to working and co
 
 # Leadership
 
-##President, Texas Aerial Robotics - Austin,TX (3/2023 – 5/2024)
+## President, Texas Aerial Robotics - Austin, TX (3/2023 – 5/2024)
 
-• Implemented strategic decisions regarding the organization’s direction and structure, resulting in improved member retention. 
-• Led in organizing multi-organization social events, company talks, and workshops improving member outcomes. 
-• Organized and assisted the creation of 7 workshops to familiarize members with the tools necessary for drone programming. 
-• Raytheon Drone Innovation Competition – 2nd place 
-o Implemented computer vision and pathing algorithms to create an autonomous drone capable of tracking and immobilizing 
-a moving target as a part of a drone competition. 
-o Integrated flight controller, companion computer, and the ground control system allowing for autonomous drone missions.  
+* Implemented strategic decisions regarding the organization’s direction and structure, resulting in improved member retention. 
+* Led in organizing multi-organization social events, company talks, and workshops improving member outcomes. 
+* Organized and assisted the creation of 7 workshops to familiarize members with the tools necessary for drone programming. 
+* Raytheon Drone Innovation Competition – 2nd place 
+* Implemented computer vision and pathing algorithms to create an autonomous drone capable of tracking and immobilizing a moving target as a part of a drone competition. 
+* Integrated flight controller, companion computer, and the ground control system allowing for autonomous drone missions.  
 
