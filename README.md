@@ -4,7 +4,7 @@
 
 I am a fourth-year integrated master's student looking forward to working and contributing to the field of autonomous systems. I will graduate with my BS in Computational Engineering in 2025 and my Master's in Computational Science, Engineering, and Math. Additionally, I am getting a minor in robotics. As an undergraduate, I have enjoyed doing research revolving around autonomous drones and helping others learn more about the incredible world of robotics. I am also interested in learning more and working with machine learning. 
 
-[Email](antjim19037@utexas.edu) | [LinkedIn](https://www.linkedin.com/in/antonio-o-jimenez/) | [Github](https://github.com/aJimenez19037)  
+[Email me](mailto:antjim19037@utexas.edu) | [LinkedIn](https://www.linkedin.com/in/antonio-o-jimenez/) | [Github](https://github.com/aJimenez19037)  
 
 # WORK EXPERIENCE
 
